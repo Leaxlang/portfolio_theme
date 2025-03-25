@@ -1,6 +1,7 @@
 # minima based custom theme
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
+I have modified minima to my liking for my portfolio website.
 
 [Theme preview](https://jekyll.github.io/minima/)
 
